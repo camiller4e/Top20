@@ -6,9 +6,9 @@ const SongList = (props) => {
     return <li>{topSongs.title.label}</li>
   })
   return (
-    <ul>
+    <ol>
       {topSongs}
-    </ul>
+    </ol>
   )
 
 }

@@ -29,6 +29,11 @@
 
 body {
 
+  padding-top: 27px;
+  padding-bottom: 40px;
+  padding-left: 192px;
+  padding-right: 38px;
+
   background-color: lime;
   font-family: comic sans MS;
   color: pink;
@@ -43,9 +48,8 @@ body {
 
 }
 
-#gif2:hover .move-left, #gif2:hover .move-right {
-transform: translateX(0px);
--webkit-transform: translateX(0);
--o-transform: translateX(0);
--moz-transform: translateX(0);
+#gif2 {
+
+
+
 }
